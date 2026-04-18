@@ -17,7 +17,7 @@ const routes = [
 
 const Sidebar: React.FC = () => {
   return (
-    <aside className="sidebar glass">
+    <aside className="sidebar glass-panel">
       <div className="sidebar-header">
         <h2>Vayu Report</h2>
       </div>
